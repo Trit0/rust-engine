@@ -1,5 +1,6 @@
 const PI: f64 = 3.14159265358979323846;
 
+#[derive(Debug)]
 pub struct Vector3F {
     pub x: f64,
     pub y: f64,
